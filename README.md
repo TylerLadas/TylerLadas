@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TylerLadas
 - 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Full Stack Web Development
+- 📫 How to reach me TylerLadas@hotmail.com
 
 <!---
 TylerLadas/TylerLadas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
