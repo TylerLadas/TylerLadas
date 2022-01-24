@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TylerLadas
-- 👀 I’m interested in becoming a web developer
+- 👀 I’m a junior web developer
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me tylerladas@gmail.com
 
